@@ -11,4 +11,4 @@ ai가 제시한 방향성을 보고도 잘 구현하지 못한 문제는 벽이�
 
 ## 진행상황
 2025/12 2주차
-복습할 문제: [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747), [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+복습할 문제: [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747), [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
