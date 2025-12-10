@@ -1,6 +1,6 @@
 
 ## 문제링크
-[숫자 짝](https://school.programmers.co.kr/learn/courses/30/lessons/131128)
+[유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
 ## 첫번째 시도
 ```
 def solution(n, l, r):
