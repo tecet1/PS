@@ -9,11 +9,12 @@ ai가 제시한 방향성을 보고도 잘 구현하지 못한 문제는 벽이�
 
 해당 문제들은 나중에 다시 볼 때 중점적으로 보도록 한다.
 
+## 현재목표
+[알고리즘 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit), [SQL 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) 하루에 한개씩 풀기
+
 ## 진행상황
 2025/12 2주차
 복습할 문제: [H-index](https://school.programmers.co.kr/learn/courses/30/lessons/42747), [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
-
-[알고리즘 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit), [SQL 고득점 kit](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit) 하루에 한개씩 풀기
 
 12/10 
 [알고리즘 고득점 kit - 정렬](https://school.programmers.co.kr/learn/courses/30/parts/12198)
