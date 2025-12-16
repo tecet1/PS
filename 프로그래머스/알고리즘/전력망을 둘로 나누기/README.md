@@ -116,6 +116,39 @@ def solution(n, wires):
 ## 분석
 ### 로직
 인접 리스트를 사용한 bfs를 연습함.
+유니언 파인드를 이용해 풀이가 가능하다고 함.
+```
+uf = []
+
+def find(a):
+    global uf
+    if uf[a] < 0: return a
+    uf[a] = find(uf[a])
+    return uf[a]
+
+def merge(a, b):
+    global uf
+    pa = find(a)
+    pb = find(b)
+    if pa == pb: return
+    uf[pa] += uf[pb]
+    uf[pb] = pa
+
+def solution(n, wires):
+    global uf
+    answer = int(1e9)
+    k = len(wires)
+    for i in range(k):
+        uf = [-1 for _ in range(n+1)]
+        tmp = [wires[x] for x in range(k) if x != i]
+        for a, b in tmp: merge(a, b)
+        v = [x for x in uf[1:] if x < 0]
+        answer = min(answer, abs(v[0]-v[1]))
+
+    return answer
+```
+개념은 이해가 되는데 
+코드로 보니까 전혀 이해가 안된다.. 나중에 더 공부하고 봐야할듯?
 ### 문법
 해당사항 없음.
 
