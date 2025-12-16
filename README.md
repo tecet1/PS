@@ -31,3 +31,6 @@ ai가 제시한 방향성을 보고도 잘 구현하지 못한 문제는 벽이�
 2025/12 3주차
 복습할 문제: [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 
+12/16
+[알고리즘 고득점 kit - 완전탐색](https://school.programmers.co.kr/learn/courses/30/parts/12230)
+
